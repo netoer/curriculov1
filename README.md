@@ -1,2 +1,24 @@
-# curriculov1
-Este es el primer repositorio que subo, en un proyecto base realizado por HTML y CSS.
+# portafolioooo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
